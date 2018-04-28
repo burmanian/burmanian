@@ -1,0 +1,75 @@
+Searching 6 files for ".site-logo"
+
+/Users/arkaraung/Downloads/utouchhtml/utouchhtml/html/css/rtl.css:
+  676  }
+  677  
+  678: .site-logo img {
+  679  	float: right;
+  680  	margin-right: 0;
+
+/Users/arkaraung/Downloads/utouchhtml/utouchhtml/html/css/theme-styles.css:
+ 4369      .header > .container {
+ 4370        width: 100%; } }
+ 4371:   .header.header-color-inherit .site-logo .logo-text .logo-sub-title,
+ 4372    .header.header-color-inherit .primary-menu-menu > li > a,
+ 4373    .header.header-color-inherit .nav-add li a,
+ 4374:   .header.header-color-inherit .site-logo .logo-text .logo-title,
+ 4375    .header.header-color-inherit .nav-add li.cart i,
+ 4376    .header.header-color-inherit .nav-add li.search i,
+ ....
+ 4417      .header.headroom--not-top .primary-menu-menu > li {
+ 4418        padding: 20px 9px; }
+ 4419:   .header .site-logo {
+ 			
+ 4420      margin-bottom: 0; }
+ 4421  
+ ....
+ 4453    height: 105px; }
+ 4454  
+ 4455: .site-logo {
+
+ 4456    position: relative;
+ 4457    margin-bottom: 20px;
+ 4458    overflow: hidden; }
+ 4459:   .site-logo img {
+ 4460      float: left;
+ 4461      margin-right: 12px; }
+ ....
+ 4957    .header.header-has-topbar .header-content-wrapper {
+ 4958      padding-top: 40px; }
+ 4959:   .header .site-logo {
+ 4960      margin-right: 0;
+ 4961      margin-top: 25px; }
+ ....
+ 4989    .header.header-has-topbar .header-content-wrapper {
+ 4990      padding: 30px 0; }
+ 4991:   .header .site-logo {
+ 4992      margin-right: 25px;
+ 4993      order: 0;
+ ....
+ 5013      display: block;
+ 5014      float: left; }
+ 5015:   .header .site-logo {
+ 5016      margin-right: 0;
+ 5017      margin-bottom: 30px;
+ ....
+ 5344    margin: 0; }
+ 5345  
+ 5346: .primary-menu-menu > li > .megamenu .google.site-logo {
+ 5347    margin-bottom: 15px; }
+ 5348  
+ ....
+ 6902      .page404 .sub-footer a {
+ 6903        color: #fff; }
+ 6904:   .page404 .site-logo {
+ 6905      position: absolute;
+ 6906      top: 40px;
+
+/Users/arkaraung/Downloads/utouchhtml/utouchhtml/html/css/widgets.css:
+    5    display: inline-block; }
+    6  
+    7: .w-info .site-logo {
+    8    margin-bottom: 30px; }
+    9  
+
+12 matches across 3 files
